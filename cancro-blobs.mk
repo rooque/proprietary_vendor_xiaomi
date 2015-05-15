@@ -125,7 +125,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
     vendor/xiaomi/cancro/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/xiaomi/cancro/proprietary/etc/permissions/xmnvitems.xml:system/etc/permissions/xmnvitems.xml \
-    vendor/xiaomi/cancro/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf
+    vendor/xiaomi/cancro/proprietary/etc/izat.conf:system/etc/izat.conf \
+    vendor/xiaomi/cancro/proprietary/etc/izat.conf:system/etc/lowi.conf \
+    vendor/xiaomi/cancro/proprietary/etc/izat.conf:system/etc/sap.conf
 
 #usr
 
