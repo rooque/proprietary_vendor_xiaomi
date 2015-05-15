@@ -52,23 +52,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx224_liveshot.so:system/lib/libchromatix_imx224_liveshot.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx225_liveshot.so:system/lib/libchromatix_imx225_liveshot.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx226_liveshot.so:system/lib/libchromatix_imx226_liveshot.so \
-    vendor/xiaomi/cancro/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/xiaomi/cancro/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/xiaomi/cancro/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/xiaomi/cancro/proprietary/lib/libcommonpawrapper.so:system/lib/libcommonpawrapper.so \
     vendor/xiaomi/cancro/proprietary/lib/hw/lights.msm8974.so:system/lib/hw/lights.msm8974.so \
     vendor/xiaomi/cancro/proprietary/lib/hw/consumerir.msm8974.so:system/lib/hw/consumerir.msm8974.so \
-    vendor/xiaomi/cancro/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/xiaomi/cancro/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
-    vendor/xiaomi/cancro/proprietary/lib/libxml2.so:system/lib/libxml2.so \
-    vendor/xiaomi/cancro/proprietary/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
-    vendor/xiaomi/cancro/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
-    vendor/xiaomi/cancro/proprietary/lib/libtinyxml2.so:system/lib/libtinyxml2.so \
-    vendor/xiaomi/cancro/proprietary/lib/libQWiFiSoftApCfg.so:system/lib/libQWiFiSoftApCfg.so \
-    vendor/xiaomi/cancro/proprietary/lib/libwifi-service.so:system/lib/libwifi-service.so \
     vendor/xiaomi/cancro/proprietary/lib/libhdmi.so:system/lib/libhdmi.so \
-    vendor/xiaomi/cancro/proprietary/lib/libc2dcolorconvert.so:system/lib/libc2dcolorconvert.so \
-    vendor/xiaomi/cancro/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/xiaomi/cancro/proprietary/lib/libxmnvitemJni.so:system/lib/libxmnvitemJni.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_s5k3m2_liveshot.so:system/lib/libchromatix_s5k3m2_liveshot.so
 
@@ -243,7 +230,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/hw/sensors.msm8974.so:system/vendor/lib/hw/sensors.msm8974.so \
-    vendor/xiaomi/cancro/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_imx135_common.so:system/vendor/lib/libchromatix_imx135_common.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov8825_hfr_60fps.so:system/vendor/lib/libchromatix_ov8825_hfr_60fps.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_ov8825_liveshot_hd.so:system/vendor/lib/libchromatix_ov8825_liveshot_hd.so \
