@@ -46,6 +46,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
+    vendor/xiaomi/cancro/proprietary/lib/hw/sensors.st_mve.so:system/lib/hw/sensors.st_mve.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
