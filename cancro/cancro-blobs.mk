@@ -15,9 +15,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/xiaomi/cancro/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/cancro/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
-    vendor/xiaomi/cancro/proprietary/bin/sensorextd:system/bin/sensorextd \
-    vendor/xiaomi/cancro/proprietary/bin/wait4sensorhub.sh:system/bin/wait4sensorhub.sh \
-    vendor/xiaomi/cancro/proprietary/bin/set_sensorprop.sh:system/bin/set_sensorprop.sh \
     vendor/xiaomi/cancro/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/xiaomi/cancro/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/xiaomi/cancro/proprietary/bin/thermald:system/bin/thermald \
@@ -57,7 +54,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/lib/hw/consumerir.msm8974.so:system/lib/hw/consumerir.msm8974.so \
     vendor/xiaomi/cancro/proprietary/lib/libhdmi.so:system/lib/libhdmi.so \
     vendor/xiaomi/cancro/proprietary/lib/libxmnvitemJni.so:system/lib/libxmnvitemJni.so \
-    vendor/xiaomi/cancro/proprietary/lib/libchromatix_s5k3m2_liveshot.so:system/lib/libchromatix_s5k3m2_liveshot.so
+    vendor/xiaomi/cancro/proprietary/lib/libchromatix_s5k3m2_liveshot.so:system/lib/libchromatix_s5k3m2_liveshot.so \
+    vendor/xiaomi/cancro/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/xiaomi/cancro/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/xiaomi/cancro/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
+    vendor/xiaomi/cancro/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so 
 
 #ril/rild
 
@@ -121,8 +122,6 @@ PRODUCT_COPY_FILES += \
 #vendor
 
 PRODUCT_COPY_FILES += \
-    vendor/xiaomi/cancro/proprietary/vendor/etc/diracmobile_4.config:system/vendor/etc/diracmobile_4.config \
-    vendor/xiaomi/cancro/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
     vendor/xiaomi/cancro/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
     vendor/xiaomi/cancro/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
