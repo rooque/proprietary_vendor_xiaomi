@@ -33,14 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/wcnss_service:system/bin/wcnss_service \
     vendor/xiaomi/cancro/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
     vendor/xiaomi/cancro/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/xiaomi/cancro/proprietary/bin/smonsir:system/bin/smonsir \
-    vendor/xiaomi/cancro/proprietary/bin/smprosrv:system/bin/smprosrv \
-    vendor/xiaomi/cancro/proprietary/bin/atmel_hover_tune.sh:system/bin/atmel_hover_tune.sh \
-    vendor/xiaomi/cancro/proprietary/bin/location-mq:system/bin/location-mq \
-    vendor/xiaomi/cancro/proprietary/bin/loc_launcher:system/bin/loc_launcher \
-    vendor/xiaomi/cancro/proprietary/bin/lowi-server:system/bin/lowi-server \
-    vendor/xiaomi/cancro/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
-    vendor/xiaomi/cancro/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent 
+    vendor/xiaomi/cancro/proprietary/bin/atmel_hover_tune.sh:system/bin/atmel_hover_tune.sh 
 
 #lib
 
@@ -143,7 +136,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/etc/diracmobile_4.config:system/vendor/etc/diracmobile_4.config \
     vendor/xiaomi/cancro/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
-    vendor/xiaomi/cancro/proprietary/vendor/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/xiaomi/cancro/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
     vendor/xiaomi/cancro/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
