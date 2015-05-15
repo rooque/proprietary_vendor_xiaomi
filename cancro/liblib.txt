@@ -1,0 +1,13 @@
+libqsap_sdk.so
+libxml2.so
+libdivxdrmdecrypt.so
+libtinyxml.so
+libtinyxml2.so
+libQWiFiSoftApCfg.so
+libwifi-service.so
+libhdmi.so
+libc2dcolorconvert.so
+libcnefeatureconfig.so
+libxmnvitemJni.so
+libchromatix_s5k3m2_liveshot.so
+
