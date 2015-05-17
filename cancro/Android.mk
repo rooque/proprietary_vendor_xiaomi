@@ -16,7 +16,7 @@
 
 ifeq ($(BOARD_VENDOR),xiaomi)
 ifeq ($(TARGET_BOARD_PLATFORM),msm8974)
-ifeq ($(QCPATH),)
+
 
 LOCAL_PATH := $(call my-dir)
 
@@ -137,4 +137,4 @@ include $(BUILD_PREBUILT)
 
 endif
 endif
-endif
+
