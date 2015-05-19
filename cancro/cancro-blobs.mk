@@ -189,7 +189,6 @@ PRODUCT_COPY_FILES += \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx224_snapshot.so:system/vendor/lib/libchromatix_imx224_snapshot.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libFaceProc.so:system/vendor/lib/libFaceProc.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_ov4689_common.so:system/vendor/lib/libchromatix_ov4689_common.so \
-    $(CANCRO_VENDOR_DIR)/proprietary/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_ov8865_q8v18a_video_hd.so:system/vendor/lib/libchromatix_ov8865_q8v18a_video_hd.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_ov8825_snapshot.so:system/vendor/lib/libchromatix_ov8825_snapshot.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libmmcamera_skuf_ov12830_p12v01c.so:system/vendor/lib/libmmcamera_skuf_ov12830_p12v01c.so \
@@ -326,7 +325,6 @@ PRODUCT_COPY_FILES += \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libscve_stub.so:system/vendor/lib/libscve_stub.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
-    $(CANCRO_VENDOR_DIR)/proprietary/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libmmcamera_chromaflash_lib.so:system/vendor/lib/libmmcamera_chromaflash_lib.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_ov4689_liveshot.so:system/vendor/lib/libchromatix_ov4689_liveshot.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_ov4688_preview.so:system/vendor/lib/libchromatix_ov4688_preview.so \
@@ -357,7 +355,6 @@ PRODUCT_COPY_FILES += \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx225_snapshot_hdr.so:system/vendor/lib/libchromatix_imx225_snapshot_hdr.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx132_snapshot.so:system/vendor/lib/libchromatix_imx132_snapshot.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx135_preview.so:system/vendor/lib/libchromatix_imx135_preview.so \
-    $(CANCRO_VENDOR_DIR)/proprietary/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx135_hfr_120.so:system/vendor/lib/libchromatix_imx135_hfr_120.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libqmi.so:system/vendor/lib/libqmi.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
@@ -500,7 +497,6 @@ PRODUCT_COPY_FILES += \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx214_video_hdr.so:system/vendor/lib/libchromatix_imx214_video_hdr.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libactuator_ak7345_camera.so:system/vendor/lib/libactuator_ak7345_camera.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_ov4688_hfr.so:system/vendor/lib/libchromatix_ov4688_hfr.so \
-    $(CANCRO_VENDOR_DIR)/proprietary/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libmmcamera2_q3a_special.so:system/vendor/lib/libmmcamera2_q3a_special.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libmmparser.so:system/vendor/lib/libmmparser.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libactuator_lc8214_camcorder.so:system/vendor/lib/libactuator_lc8214_camcorder.so \
@@ -545,7 +541,6 @@ PRODUCT_COPY_FILES += \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libchromatix_imx224_preview.so:system/vendor/lib/libchromatix_imx224_preview.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
-    $(CANCRO_VENDOR_DIR)/proprietary/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     $(CANCRO_VENDOR_DIR)/proprietary/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     $(CANCRO_VENDOR_DIR)/proprietary/firmware/bcm2079x-b5_firmware.ncd:system/vendor/firmware/bcm2079x-b5_firmware.ncd \
     $(CANCRO_VENDOR_DIR)/proprietary/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
