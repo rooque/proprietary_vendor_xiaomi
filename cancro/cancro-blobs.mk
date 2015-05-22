@@ -98,9 +98,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/etc/firmware/wcnss.b08:system/etc/firmware/wcnss.b08 \
     vendor/xiaomi/cancro/proprietary/etc/firmware/wcnss.b09:system/etc/firmware/wcnss.b09 \
     vendor/xiaomi/cancro/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
-    vendor/xiaomi/cancro/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
-    vendor/xiaomi/cancro/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
-    vendor/xiaomi/cancro/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
     vendor/xiaomi/cancro/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/xiaomi/cancro/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/xiaomi/cancro/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
@@ -123,8 +120,6 @@ PRODUCT_COPY_FILES += \
 #vendor
 
 PRODUCT_COPY_FILES += \
-    vendor/xiaomi/cancro/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
-    vendor/xiaomi/cancro/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libactuator_dw9714_camera.so:system/vendor/lib/libactuator_dw9714_camera.so \
@@ -549,3 +544,5 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/bcm2079x-b5_pre_firmware.ncd:system/vendor/firmware/bcm2079x-b5_pre_firmware.ncd
+
+
