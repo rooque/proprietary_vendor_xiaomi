@@ -32,8 +32,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/xiaomi/cancro/proprietary/bin/wcnss_service:system/bin/wcnss_service \
     vendor/xiaomi/cancro/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
-    vendor/xiaomi/cancro/proprietary/bin/btnvtool:system/bin/btnvtool \
-    vendor/xiaomi/cancro/proprietary/bin/atmel_hover_tune.sh:system/bin/atmel_hover_tune.sh 
+    vendor/xiaomi/cancro/proprietary/bin/btnvtool:system/bin/btnvtool
+
 
 #lib
 
