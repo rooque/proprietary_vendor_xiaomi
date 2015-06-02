@@ -32,7 +32,6 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     shutdownlistener
 
-PRODUCT_PACKAGE_OVERLAYS += vendor/xiaomi/overlay/common
 
 $(call inherit-product, vendor/xiaomi/cancro/cancro-vendor-blobs.mk)
-$(call inherit-product-if-exists, vendor/xiaomi/extras/device-partial.mk)
+
