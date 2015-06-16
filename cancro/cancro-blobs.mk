@@ -60,9 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx226_liveshot.so:system/lib/libchromatix_imx226_liveshot.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx225_liveshot.so:system/lib/libchromatix_imx225_liveshot.so \
-    vendor/xiaomi/cancro/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/xiaomi/cancro/proprietary/lib/libcommonpawrapper.so:system/lib/libcommonpawrapper.so \
-    vendor/xiaomi/cancro/proprietary/lib/libqdMetaData.so:system/lib/libqdMetaData.so \
     vendor/xiaomi/cancro/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_s5k3m2_liveshot.so:system/lib/libchromatix_s5k3m2_liveshot.so
