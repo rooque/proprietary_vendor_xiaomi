@@ -106,15 +106,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/xiaomi/cancro/proprietary/etc/permissions/xmnvitems.xml:system/etc/permissions/xmnvitems.xml 
 
-#usr
-
-PRODUCT_COPY_FILES += \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/atmel-maxtouch.kl:system/usr/keylayout/atmel-maxtouch.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl:system/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/synaptics_rmi4_i2c.kl:system/usr/keylayout/synaptics_rmi4_i2c.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/synaptics_dsx.kl:system/usr/keylayout/synaptics_dsx.kl \
-    vendor/xiaomi/cancro/proprietary/usr/keylayout/fts.kl:system/usr/keylayout/fts.kl
 
 #vendor
 
