@@ -486,6 +486,23 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
-    vendor/xiaomi/cancro/proprietary/vendor/firmware/bcm2079x-b5_pre_firmware.ncd:system/vendor/firmware/bcm2079x-b5_pre_firmware.ncd
+    vendor/xiaomi/cancro/proprietary/vendor/firmware/bcm2079x-b5_pre_firmware.ncd:system/vendor/firmware/bcm2079x-b5_pre_firmware.ncd \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_common.so:system/vendor/lib/libchromatix_s5k3m2_common.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_default_video.so:system/vendor/lib/libchromatix_s5k3m2_default_video.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_hfr_120fps.so:system/vendor/lib/libchromatix_s5k3m2_hfr_120fps.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_preview.so:system/vendor/lib/libchromatix_s5k3m2_preview.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_snapshot.so:system/vendor/lib/libchromatix_s5k3m2_snapshot.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_snapshot_hdr.so:system/vendor/lib/libchromatix_s5k3m2_snapshot_hdr.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_video_hdr.so:system/vendor/lib/libchromatix_s5k3m2_video_hdr.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_video_hdr_uhd.so:system/vendor/lib/libchromatix_s5k3m2_video_hdr_uhd.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libchromatix_s5k3m2_video_uhd.so:system/vendor/lib/libchromatix_s5k3m2_video_uhd.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libmmcamera_s5k3m2.so:system/vendor/lib/libmmcamera_s5k3m2.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libmmcamera_x4_s5k3m2_eeprom.so:system/vendor/lib/libmmcamera_x4_s5k3m2_eeprom.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libsrsprocessing.so:system/vendor/lib/libsrsprocessing.so
 
 
