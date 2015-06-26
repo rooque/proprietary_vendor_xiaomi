@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx219_liveshot.so:system/lib/libchromatix_imx219_liveshot.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
-    vendor/xiaomi/cancro/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
+    vendor/xiaomi/cancro/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/xiaomi/cancro/proprietary/lib/hw/lights.msm8974.so:system/lib/hw/lights.msm8974.so \
     vendor/xiaomi/cancro/proprietary/lib/hw/consumerir.msm8974.so:system/lib/hw/consumerir.msm8974.so \
     vendor/xiaomi/cancro/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
