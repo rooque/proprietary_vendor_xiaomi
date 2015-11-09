@@ -363,6 +363,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/xiaomi/cancro/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
+    vendor/xiaomi/cancro/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libdsnetutils.so:system/vendor/lib/libdsnetutils.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
