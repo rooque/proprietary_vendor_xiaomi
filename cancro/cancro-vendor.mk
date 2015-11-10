@@ -27,7 +27,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
-    QuickBoot \
+    fastdormancy \
     shutdownlistener \
     TimeService
 

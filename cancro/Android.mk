@@ -114,9 +114,9 @@ LOCAL_PRIVILEGED_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := QuickBoot
+LOCAL_MODULE := fastdormancy
 LOCAL_MODULE_OWNER := xiaomi
-LOCAL_SRC_FILES := proprietary/app/QuickBoot.apk
+LOCAL_SRC_FILES := proprietary/app/fastdormancy.apk
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .apk
 LOCAL_MODULE_CLASS := APPS
