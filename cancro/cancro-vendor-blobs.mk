@@ -3,6 +3,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/xiaomi/cancro/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
+    vendor/xiaomi/cancro/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/xiaomi/cancro/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/xiaomi/cancro/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libubifocus.so:system/vendor/lib/libubifocus.so \
@@ -402,7 +403,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/xiaomi/cancro/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/xiaomi/cancro/proprietary/bin/rmnetcli:system/bin/rmnetcli \
-    vendor/xiaomi/cancro/proprietary/bin/tzdatacheck:system/bin/tzdatacheck \
     vendor/xiaomi/cancro/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/xiaomi/cancro/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/xiaomi/cancro/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
@@ -494,7 +494,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/lib/rfsa/adsp/libscveT2T_skel.so:system/lib/rfsa/adsp/libscveT2T_skel.so \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libsrsprocessing.so:system/vendor/lib/libsrsprocessing.so \
     vendor/xiaomi/cancro/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/xiaomi/cancro/proprietary/lib/libmdnssd.so:system/lib/libmdnssd.so \
     vendor/xiaomi/cancro/proprietary/lib/libstm-log.so:system/lib/libstm-log.so \
     vendor/xiaomi/cancro/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/xiaomi/cancro/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
