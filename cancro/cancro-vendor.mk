@@ -19,6 +19,7 @@ DEVICE_PACKAGE_OVERLAYS += vendor/xiaomi/cancro/overlay
 
 PRODUCT_PACKAGES += \
     libHevcSwDecoder \
+    libmdmdetect \
     libmm-abl \
     libTimeService \
     libqct_resampler \
